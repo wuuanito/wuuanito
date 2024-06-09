@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Juan Frauca] 👋
+# ¡Hola! Soy Juan Frauca 👋
 
 Soy un desarrollador junior apasionado por la tecnología, especializado en Angular y Node.js. Me encanta crear aplicaciones web dinámicas y eficientes, y siempre estoy buscando aprender y mejorar mis habilidades.
 
