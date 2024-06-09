@@ -18,7 +18,7 @@ Soy un desarrollador junior apasionado por la tecnología, especializado en Angu
 
 ## 📂 Proyectos Destacados
 
-### [Proyecto 1: REPORT APP]([URL_del_Repositorio](https://github.com/wuuanito/AngularReporting.git))
+### [Proyecto 1: REPORT APP](https://github.com/wuuanito/AngularReporting.git)
 Aplicacion Web interna , departamental ._
 - **Tecnologías usadas**: Angular, Node.js, Express.js, MongoDB
 - **Características**: Autenticación de usuarios, CRUD completo, diseño responsivo
