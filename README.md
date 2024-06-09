@@ -32,7 +32,7 @@ Aplicacion Web interna , departamental ._
 
 ## 💼 Experiencia
 
-### [Rioja Nature Pharma]
+### Rioja Nature Pharma
 **Puesto:** Desarrollador Junior  
 **Periodo:** Marzo/2024 - Actual Puesto  
 **Responsabilidades:**
