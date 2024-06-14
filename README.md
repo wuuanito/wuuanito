@@ -12,7 +12,7 @@ Soy un desarrollador junior apasionado por la tecnología, especializado en Angu
 
 ## 🌱 Actualmente Aprendiendo
 
-- **Frameworks/Libs**: RxJS, NgRx
+- **Frameworks/Libs**: RxJS, NgRx,SpringBoot , React
 - **DevOps**: CI/CD con GitHub Actions
 - **Testing**: Jasmine, Karma, Jest
 
