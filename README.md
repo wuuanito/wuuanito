@@ -28,7 +28,7 @@ Aplicacion Web interna , departamental ._
 ## 📫 Contáctame
 
 - **Email**: juanfrauca@outlook.com
-- **LinkedIn**: [Juan Frauca Sesma](www.linkedin.com/in/juan-frauca-sesma-48bba9264)
+- **LinkedIn**: www.linkedin.com/in/juan-frauca-sesma-48bba9264
 
 ## 💼 Experiencia
 
