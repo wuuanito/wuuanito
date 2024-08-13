@@ -18,9 +18,9 @@ Soy un desarrollador junior apasionado por la tecnología, especializado en Angu
 
 ## 📂 Proyectos Destacados
 
-### [Proyecto 1: REPORT APP](https://github.com/wuuanito/rnp-connect.git)
+### [Proyecto 1: RNP CONNECT](https://github.com/wuuanito/rnp-connect.git)
 Aplicacion Web interna , departamental ._
-- **Tecnologías usadas**: Angular, Node.js, Express.js, MongoDB
+- **Tecnologías usadas**: Angular, Node.js, Express.js, MySQL
 - **Características**: Autenticación de usuarios, CRUD completo, diseño responsivo
 
 
