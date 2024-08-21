@@ -12,18 +12,9 @@ Soy un desarrollador junior apasionado por la tecnología, especializado en Angu
 
 ## 🌱 Actualmente Aprendiendo
 
-- **Frameworks/Libs**: RxJS, NgRx,SpringBoot , React
+- **Frameworks/Libs**: RxJS, NgRx,Javascript,Typescript , React,Angular,Vue
 - **DevOps**: CI/CD con GitHub Actions
 - **Testing**: Jasmine, Karma, Jest
-
-## 📂 Proyectos Destacados
-
-### [Proyecto 1: RNP CONNECT](https://github.com/wuuanito/rnp-connect.git)
-Aplicacion Web interna , departamental ._
-- **Tecnologías usadas**: Angular, Node.js, Express.js, MySQL
-- **Características**: Autenticación de usuarios, CRUD completo, diseño responsivo
-
-
 
 ## 📫 Contáctame
 
@@ -41,14 +32,3 @@ Aplicacion Web interna , departamental ._
 - Colaboración en la implementación de base de datos en SQL Server.
 - Mantenimiento y actualización de repositorios en GitHub.
 
-
-
-
-
-## 🎯 Objetivos a Futuro
-
-- Profundizar en el desarrollo full-stack con MERN stack.
-- Aprender sobre arquitectura de microservicios.
-- Contribuir a proyectos open-source y participar en hackathons.
-
-¡Gracias por visitar mi perfil! Estoy emocionado de conectar con otros desarrolladores y colaborar en proyectos interesantes.
