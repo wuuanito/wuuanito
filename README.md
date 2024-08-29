@@ -72,7 +72,7 @@ Actualmente profundizando conocimientos en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-frauca-sesma-48bba9264)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrauca@outlook.com)
-[![Mobile](https://img.shields.io/badge/Mobile-+34%20XXX%20XXX%20XXX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34638756015)
+[![Mobile](https://img.shields.io/badge/Mobile-+34%20638%20756%20015-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34638756015)
 
 ---
 
