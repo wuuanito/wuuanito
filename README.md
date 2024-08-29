@@ -1,4 +1,4 @@
-# Juan Frauca Sesma | Desarrollador Full Stack Junior 🚀
+# Juan Frauca Sesma | Desarrollador Full Stack  🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-frauca-sesma-48bba9264)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://wuuanito.github.io/mi-porfolio/)
@@ -41,15 +41,18 @@ Desarrollador Full Stack Junior con sólida formación en Angular y Node.js. Apa
 - Implementación de APIs RESTful con Node.js y Express.js.
 - Diseño y mantenimiento de bases de datos en SQL Server.
 - Colaboración en equipo utilizando metodologías ágiles y Git para control de versiones.
+- Gestion de Erp (RpsNext)
 
 ## 🎓 Educación
 
-- **Grado Superior en Desarrollo de Aplicaciones Web**
-  *[Nombre de la Institución], [Año de graduación]*
-
+- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
+- **Ingenieria Informatica**
 - **Próximamente: Máster en Desarrollo Full Stack**
-  *[Nombre de la Institución], Inicio: Octubre 2024*
+  *[EBIS Tech School / Universidad de Vitoria], Inicio: Octubre 2024*
   > Enfoque en especialización backend: Node.js, Express.js y Nest.js
+  > Test Unitarios
+  > CI/CD
+  > Docker-Jenkins-Kubernetes
 
 ## 🌱 Aprendizaje Continuo
 
@@ -58,18 +61,6 @@ Actualmente profundizando conocimientos en:
 - Express.js (avanzado)
 - Nest.js
 - Arquitecturas de microservicios
-
-## 🚀 Proyectos Destacados
-
-### [Nombre del Proyecto 1]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wuuanito/proyecto1)
-- Breve descripción del proyecto y tecnologías utilizadas.
-- Desafíos superados y resultados obtenidos.
-
-### [Nombre del Proyecto 2]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wuuanito/proyecto2)
-- Breve descripción del proyecto y tecnologías utilizadas.
-- Impacto o funcionalidades destacadas.
 
 ## 📊 Estadísticas de GitHub
 
@@ -81,6 +72,7 @@ Actualmente profundizando conocimientos en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-frauca-sesma-48bba9264)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrauca@outlook.com)
+[![Mobile](https://img.shields.io/badge/Mobile-+34%20XXX%20XXX%20XXX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34638756015)
 
 ---
 
