@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un **Desarrollador Full Stack Junior** con pasión por crear soluciones web escalables y eficientes, utilizando el ecosistema de **React**, **Node.js** y **JavaScript**. Me motiva el aprendizaje constante y la implementación de las últimas tendencias tecnológicas para mejorar la experiencia del usuario y optimizar procesos.
+Soy un **Desarrollador Full Stack ** con pasión por crear soluciones web escalables y eficientes, utilizando el ecosistema de **React**, **Node.js** y **JavaScript**. Me motiva el aprendizaje constante y la implementación de las últimas tendencias tecnológicas para mejorar la experiencia del usuario y optimizar procesos.
 
 ---
 
